@@ -1,6 +1,10 @@
 <h1 align="center">xiao-yang25</h1>
 
 <p align="center">
+  <a href="README.md"><strong>English</strong></a> · <a href="README.zh-CN.md">中文</a>
+</p>
+
+<p align="center">
   System software architecture · Communication middleware · Model inference infrastructure
 </p>
 
@@ -12,13 +16,11 @@
 
 ---
 
-## English
-
 I focus on **system software architecture**, especially **communication middleware** and **model inference infrastructure**.
 
-My current open-source work is centered around middleware behavior, protocol correctness, data representation, and developer-facing reliability. I care about changes that make systems easier to reason about, easier to integrate, and less surprising in production.
+My current open-source work focuses on middleware, system software, and model inference deployment. I care about making systems run better and more reliably with fewer resources.
 
-### Open Source Contributions
+## Open Source Contributions
 
 | Project | Contribution | Status |
 |---|---|---|
@@ -27,30 +29,9 @@ My current open-source work is centered around middleware behavior, protocol cor
 | [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | Fixed a discovery documentation issue | [PR #894](https://github.com/eProsima/Fast-DDS-docs/pull/894) · Merged |
 | [smallchat](https://github.com/antirez/smallchat) | Proposed Windows build guidance for a project by the author of Redis | [PR #31](https://github.com/antirez/smallchat/pull/31) · Open |
 
-### Technical Direction
+## Technical Direction
 
-`System Software Architecture` · `Communication Middleware` · `Distributed Systems` · `Model Inference Infrastructure` · `Rust` · `C` · `C++`
-
----
-
-## 中文
-
-我关注 **系统软件架构**，重点方向包括 **通信中间件** 与 **模型推理基础设施**。
-
-目前的开源贡献主要围绕中间件行为、协议正确性、数据表示以及面向开发者的可靠性。我更关注那些能让系统更容易理解、更容易集成、在线上行为更少意外的改进。
-
-### 开源贡献
-
-| 项目 | 贡献内容 | 状态 |
-|---|---|---|
-| [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) | 修复 REST 中 `TEXT_JSON5` payload 的解析行为，引入 JSON5 语义支持 | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
-| [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | 修正 `READ/NOT_READ` sample state 语义反转问题 | [PR #1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · Merged |
-| [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | 修复 discovery 相关文档问题 | [PR #894](https://github.com/eProsima/Fast-DDS-docs/pull/894) · Merged |
-| [smallchat](https://github.com/antirez/smallchat) | 为 Redis 作者的项目补充 Windows 构建说明 | [PR #31](https://github.com/antirez/smallchat/pull/31) · Open |
-
-### 技术方向
-
-`系统软件架构` · `通信中间件` · `分布式系统` · `模型推理基础设施` · `Rust` · `C` · `C++`
+`System Software Architecture` · `Communication Middleware` · `Distributed Systems` · `Model Inference Infrastructure` · `C` · `C++`
 
 ---
 
