@@ -34,7 +34,3 @@
 `系统软件架构` · `通信中间件` · `分布式系统` · `模型推理基础设施` · `C` · `C++`
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiao-yang25&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>

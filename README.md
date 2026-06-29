@@ -34,7 +34,3 @@ My current open-source work focuses on middleware, system software, and model in
 `System Software Architecture` · `Communication Middleware` · `Distributed Systems` · `Model Inference Infrastructure` · `C` · `C++`
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiao-yang25&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
