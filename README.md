@@ -22,11 +22,19 @@ My current open-source work focuses on middleware, system software, and model in
 
 ## Open Source Contributions
 
+### Communication Middleware
+
 | Project | Contribution | Status |
 |---|---|---|
-| [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) | Fixed REST `TEXT_JSON5` payload parsing behavior with JSON5 support | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
 | [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | Fixed reversed `READ/NOT_READ` sample state semantics | [PR #1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · Merged |
 | [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | Fixed a discovery documentation issue | [PR #894](https://github.com/eProsima/Fast-DDS-docs/pull/894) · Merged |
+| [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds) | Guarded short RTPS messages in the DDSI security scan | [Commit 9d44245a](https://github.com/xiao-yang25/cyclonedds/commit/9d44245a) · Pushed |
+| [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) | Fixed REST `TEXT_JSON5` payload parsing behavior with JSON5 support | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
+
+### Systems and Developer Tooling
+
+| Project | Contribution | Status |
+|---|---|---|
 | [smallchat](https://github.com/antirez/smallchat) | Proposed Windows build guidance for a project by the author of Redis | [PR #31](https://github.com/antirez/smallchat/pull/31) · Open |
 
 ## Technical Direction

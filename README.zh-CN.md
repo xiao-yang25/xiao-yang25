@@ -22,11 +22,19 @@
 
 ## 开源贡献
 
+### 通信中间件
+
 | 项目 | 贡献内容 | 状态 |
 |---|---|---|
-| [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) | 修复 REST 中 `TEXT_JSON5` payload 的解析行为，引入 JSON5 语义支持 | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
 | [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | 修正 `READ/NOT_READ` sample state 语义反转问题 | [PR #1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · Merged |
 | [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | 修复 discovery 相关文档问题 | [PR #894](https://github.com/eProsima/Fast-DDS-docs/pull/894) · Merged |
+| [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds) | 为 DDSI security scan 补充短 RTPS 消息保护 | [Commit 9d44245a](https://github.com/xiao-yang25/cyclonedds/commit/9d44245a) · Pushed |
+| [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) | 修复 REST 中 `TEXT_JSON5` payload 的解析行为，引入 JSON5 语义支持 | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
+
+### 系统与开发者工具
+
+| 项目 | 贡献内容 | 状态 |
+|---|---|---|
 | [smallchat](https://github.com/antirez/smallchat) | 为 Redis 作者的项目补充 Windows 构建说明 | [PR #31](https://github.com/antirez/smallchat/pull/31) · Open |
 
 ## 技术方向
