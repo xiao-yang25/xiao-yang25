@@ -5,42 +5,43 @@
 </p>
 
 <p align="center">
-  系统软件架构 · 通信中间件 · 模型推理基础设施
+  系统软件 · 通信中间件 · 模型推理基础设施
 </p>
 
 <p align="center">
   <a href="https://github.com/xiao-yang25"><img src="https://img.shields.io/badge/GitHub-xiao--yang25-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Focus-System%20Software-0f766e?style=flat-square" alt="System Software" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563eb?style=flat-square" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Middleware-0f766e?style=flat-square" alt="Systems and Middleware" />
+  <img src="https://img.shields.io/badge/Open%20Source-Upstream%20Contributor-2563eb?style=flat-square" alt="Open Source Contributor" />
 </p>
 
 ---
 
-我关注 **系统软件架构**，重点方向包括 **通信中间件** 与 **模型推理基础设施**。
+我关注底层系统、通信中间件和模型推理基础设施。
 
-目前的开源贡献主要围绕中间件、系统软件和模型推理部署相关，关注那些利用更少的资源让系统跑得更好、更稳定的事情。
+近期的开源工作主要围绕 ROS 2 RMW、DDS、Zenoh 和 iceoryx2，偏向小而具体的修复与测试，让系统行为更可靠。
 
-## 开源贡献
+## 核心亮点
 
-### 通信中间件
+- 在 ROS 2 RMW、Eclipse iceoryx2、Fast DDS docs 等上游项目有已合入贡献
+- 关注方向：中间件行为、分布式系统、协议鲁棒性、资源高效的基础设施
+- 主要技术背景：C、C++、Linux、中间件、模型部署
 
-| 项目 | 贡献内容 | 状态 |
-|---|---|---|
-| [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation) | 为 `rmw_take_sequence` 补充发布并批量接收的测试覆盖 | [PR #283](https://github.com/ros2/rmw_implementation/pull/283) · Merged |
-| [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) | 修复断开客户端连接的回收问题 | [PR #1830](https://github.com/eclipse-iceoryx/iceoryx2/pull/1830) · Merged |
-| [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | 修正 `READ/NOT_READ` sample state 语义反转问题 | [PR #1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · Merged |
-| [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | 修复 discovery 相关文档问题 | [PR #894](https://github.com/eProsima/Fast-DDS-docs/pull/894) · Merged |
-| [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds) | 为 DDSI security scan 补充短 RTPS 消息保护 | [PR #2424](https://github.com/eclipse-cyclonedds/cyclonedds/pull/2424) · Open |
-| [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) | 修复 REST 中 `TEXT_JSON5` payload 的解析行为，引入 JSON5 语义支持 | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
+## 近期贡献
 
-### 系统与开发者工具
+- [ROS 2 RMW Implementation #283](https://github.com/ros2/rmw_implementation/pull/283) · Merged
+- [Eclipse iceoryx2 #1830](https://github.com/eclipse-iceoryx/iceoryx2/pull/1830) · Merged
+- [Fast DDS docs #1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · Merged
 
-| 项目 | 贡献内容 | 状态 |
-|---|---|---|
-| [smallchat](https://github.com/antirez/smallchat) | 为 Redis 作者的项目补充 Windows 构建说明 | [PR #31](https://github.com/antirez/smallchat/pull/31) · Open |
+[完整开源贡献 →](CONTRIBUTIONS.zh-CN.md)
 
-## 技术方向
+## 工作经历
 
-`系统软件架构` · `通信中间件` · `分布式系统` · `模型推理基础设施` · `C` · `C++`
+- 2026.06 - 至今：阿里巴巴集团
+- 2023.07 - 2026.05：旷视科技（MEGVII / 北京旷视科技有限公司）
 
----
+[工作经历详情 →](EXPERIENCE.zh-CN.md)
+
+## 更多
+
+- [技术方向与贡献列表 →](CONTRIBUTIONS.zh-CN.md)
+- [工作经历 →](EXPERIENCE.zh-CN.md)
