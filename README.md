@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+xiao-yang25.+Systems+%26+Middleware+Engineer" alt="Hi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=20&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+XiaoYang." alt="Hi" />
   <p>
-    <strong>I'm currently focused on system software, communication middleware, and model inference infrastructure.</strong>
-  </p>
-
-  <p>
-    <code>C/C++ · Linux · DDS · ROS 2</code>
-    <code>Middleware behavior · Distributed systems · Reliable infrastructure</code>
+    <strong>Focus on</strong><br/>
+    System Software<br/>
+    Communication Middleware<br/>
+    AI Infra
   </p>
 
   <p>
@@ -23,8 +21,8 @@
 > 📄 [View Details →](EXPERIENCE.md)
 
 <p>
-<strong>Alibaba Group</strong> -- <code>System software / infrastructure</code> -- <code>2026.06 to Present</code><br/>
-<strong>MEGVII</strong> -- <code>System software / model deployment infrastructure</code> -- <code>2023.07 to 2026.05</code><br/>
+<strong>Alibaba</strong> -- <code>Embodied AI Business Unit</code> -- <code>2026.06 to Present</code><br/>
+<strong>MEGVII</strong> -- <code>Autonomous Driving / Intelligent Driving</code> -- <code>2023.07 to 2026.05</code><br/>
 </p>
 
 </td>
@@ -34,10 +32,10 @@
 
 > 🧩 [View Contributions →](CONTRIBUTIONS.md)
 
-- ✅ **ROS 2 RMW Implementation** — publish-and-take coverage for `rmw_take_sequence` · [#283](https://github.com/ros2/rmw_implementation/pull/283)
-- ✅ **Eclipse iceoryx2** — disconnected client connection reclamation · [#1830](https://github.com/eclipse-iceoryx/iceoryx2/pull/1830)
-- ✅ **Fast DDS docs** — sample-state semantics and discovery docs fixes · [#1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · [#894](https://github.com/eProsima/Fast-DDS-docs/pull/894)
-- 🔭 Open PRs in **Eclipse Cyclone DDS**, **Eclipse Zenoh**, and **smallchat**
+- ✅ **Upstream Contributor** — [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation)
+- ✅ **Upstream Contributor** — [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
+- ✅ **Docs Contributor** — [Fast DDS docs](https://github.com/eProsima/Fast-DDS-docs)
+- 🔭 **Contributor** — [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds) · [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) · [smallchat](https://github.com/antirez/smallchat)
 
 </td>
 </tr>
