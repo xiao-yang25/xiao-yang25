@@ -1,24 +1,20 @@
 <h1 align="center">xiao-yang25</h1>
 
-<p align="center">
-  Systems · Middleware · Inference Infrastructure
-</p>
+I'm currently focused on system software, communication middleware, and model inference infrastructure.
 
-<p align="center">
-  <a href="README.zh-CN.md">中文</a> ·
-  <a href="CONTRIBUTIONS.md">Contributions</a> ·
-  <a href="EXPERIENCE.md">Experience</a>
-</p>
+`C/C++ · Linux · DDS · ROS 2` `Middleware behavior · Distributed systems · Reliable infrastructure`
 
----
+#### Work Experience > [View Details →](EXPERIENCE.md)
 
-Working on low-level systems and communication middleware.
+Alibaba Group -- `System software / infrastructure` -- `2026.06 to Present`
 
-Merged upstream patches in ROS 2 RMW, Eclipse iceoryx2, and Fast DDS docs.
+MEGVII -- `System software / model deployment infrastructure` -- `2023.07 to 2026.05`
 
-`C` · `C++` · `Linux` · `DDS` · `ROS 2` · `Distributed Systems`
+#### Open Source Experience > [View Contributions →](CONTRIBUTIONS.md)
 
----
+- **ROS 2 RMW Implementation** — added publish-and-take coverage for `rmw_take_sequence` · [#283](https://github.com/ros2/rmw_implementation/pull/283)
+- **Eclipse iceoryx2** — fixed disconnected client connection reclamation · [#1830](https://github.com/eclipse-iceoryx/iceoryx2/pull/1830)
+- **Fast DDS docs** — fixed sample-state semantics and discovery documentation issues · [#1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · [#894](https://github.com/eProsima/Fast-DDS-docs/pull/894)
+- Open PRs in **Eclipse Cyclone DDS**, **Eclipse Zenoh**, and **smallchat**.
 
-2026.06 - Present · Alibaba Group  
-2023.07 - 2026.05 · MEGVII
+`English` · [中文](README.zh-CN.md)
