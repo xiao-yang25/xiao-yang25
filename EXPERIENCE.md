@@ -10,4 +10,4 @@ Embodied AI Business Unit
 
 2023.07 - 2026.05
 
-Autonomous Driving / Intelligent Driving
+Autonomous Driving
