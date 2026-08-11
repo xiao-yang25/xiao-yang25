@@ -28,9 +28,9 @@
 
 > 🧩 [View Contributions →](CONTRIBUTIONS.md)
 
-- ✅ **ROS 2 Contributor** — [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation)
-- ✅ **iceoryx2 Contributor** — [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
-- ✅ **Fast DDS Contributor** — [Fast DDS docs](https://github.com/eProsima/Fast-DDS-docs)
+- ✅ **ROS 2 Committer** — [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation)
+- ✅ **iceoryx2 Committer** — [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
+- ✅ **Fast DDS Committer** — [Fast DDS docs](https://github.com/eProsima/Fast-DDS-docs)
 
 </td>
 </tr>
