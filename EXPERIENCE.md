@@ -6,7 +6,7 @@
 
 Embodied AI Business Unit
 
-## MEGVII / Beijing Kuangshi Technology Co., Ltd.
+## MEGVII
 
 2023.07 - 2026.05
 
