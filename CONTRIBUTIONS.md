@@ -4,20 +4,45 @@ I focus on system software architecture, especially communication middleware and
 
 ## Communication Middleware
 
-| Project | Contribution | Status |
-|---|---|---|
-| [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds) | Guarded short RTPS messages in the DDSI security scan | [PR #2424](https://github.com/eclipse-cyclonedds/cyclonedds/pull/2424) · Merged |
-| [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation) | Added publish-and-take coverage for `rmw_take_sequence` | [PR #283](https://github.com/ros2/rmw_implementation/pull/283) · Merged |
-| [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) | Fixed disconnected client connection reclamation | [PR #1830](https://github.com/eclipse-iceoryx/iceoryx2/pull/1830) · Merged |
-| [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | Fixed reversed `READ/NOT_READ` sample state semantics | [PR #1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · Merged |
-| [Fast DDS](https://github.com/eProsima/Fast-DDS-docs) | Fixed a discovery documentation issue | [PR #894](https://github.com/eProsima/Fast-DDS-docs/pull/894) · Merged |
-| [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh) | Fixed REST `TEXT_JSON5` payload parsing behavior with JSON5 support | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
+### [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds)
+
+| Contribution | Status |
+|---|---|
+| Guarded short RTPS messages in the DDSI security scan | [PR #2424](https://github.com/eclipse-cyclonedds/cyclonedds/pull/2424) · Merged |
+
+### [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation)
+
+| Contribution | Status |
+|---|---|
+| Added publish-and-take coverage for `rmw_take_sequence` | [PR #283](https://github.com/ros2/rmw_implementation/pull/283) · Merged |
+
+### [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
+
+| Contribution | Status |
+|---|---|
+| Fixed disconnected client connection reclamation | [PR #1830](https://github.com/eclipse-iceoryx/iceoryx2/pull/1830) · Merged |
+| Avoided panic when cleanup finds a live node | [PR #1936](https://github.com/eclipse-iceoryx/iceoryx2/pull/1936) · Open |
+
+### [Fast DDS Docs](https://github.com/eProsima/Fast-DDS-docs)
+
+| Contribution | Status |
+|---|---|
+| Fixed reversed `READ/NOT_READ` sample state semantics | [PR #1201](https://github.com/eProsima/Fast-DDS-docs/pull/1201) · Merged |
+| Fixed a discovery documentation issue | [PR #894](https://github.com/eProsima/Fast-DDS-docs/pull/894) · Merged |
+
+### [Eclipse Zenoh](https://github.com/eclipse-zenoh/zenoh)
+
+| Contribution | Status |
+|---|---|
+| Fixed REST `TEXT_JSON5` payload parsing behavior with JSON5 support | [PR #2657](https://github.com/eclipse-zenoh/zenoh/pull/2657) · Open |
 
 ## Systems and Developer Tooling
 
-| Project | Contribution | Status |
-|---|---|---|
-| [smallchat](https://github.com/antirez/smallchat) | Proposed Windows build guidance for a project by the author of Redis | [PR #31](https://github.com/antirez/smallchat/pull/31) · Open |
+### [smallchat](https://github.com/antirez/smallchat)
+
+| Contribution | Status |
+|---|---|
+| Proposed Windows build guidance for a project by the author of Redis | [PR #31](https://github.com/antirez/smallchat/pull/31) · Open |
 
 ## Technical Direction
 
