@@ -22,6 +22,7 @@ I focus on system software architecture, especially communication middleware and
 |---|---|
 | Fixed disconnected client connection reclamation | [PR #1830](https://github.com/eclipse-iceoryx/iceoryx2/pull/1830) · Merged |
 | Avoided panic when cleanup finds a live node | [PR #1936](https://github.com/eclipse-iceoryx/iceoryx2/pull/1936) · Open |
+| Fixed discovery service node cleanup | [PR #1946](https://github.com/eclipse-iceoryx/iceoryx2/pull/1946) · Open |
 
 ### [Fast DDS Docs](https://github.com/eProsima/Fast-DDS-docs)
 
