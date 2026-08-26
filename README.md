@@ -28,10 +28,16 @@
 
 > 🧩 [View Contributions →](CONTRIBUTIONS.md)
 
-- ✅ **ROS 2 Committer** — [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation)
-- ✅ **iceoryx2 Committer** — [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
-- ✅ **Cyclone DDS Committer** — [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds)
-- ✅ **Fast DDS Committer** — [Fast DDS docs](https://github.com/eProsima/Fast-DDS-docs)
+**Communication Middleware**
+
+- ✅ **iceoryx2 Contributor** — [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
+- ✅ **ROS 2 Contributor** — [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation)
+- ✅ **Cyclone DDS Contributor** — [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds)
+- ✅ **Fast DDS Contributor** — [Fast DDS docs](https://github.com/eProsima/Fast-DDS-docs)
+
+**AI Infra**
+
+- 🚧 **More coming soon**
 
 </td>
 </tr>
