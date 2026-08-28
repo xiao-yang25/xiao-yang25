@@ -17,7 +17,7 @@ I focus on runtime infrastructure for embodied AI, spanning communication middle
 | Project | Contributions | PRs | Status |
 |---|---|---:|---|
 | [**TensorRT-Edge-LLM**](https://github.com/NVIDIA/TensorRT-Edge-LLM) | Hugging Face cache symlink support for checkpoint shards ([#195](https://github.com/NVIDIA/TensorRT-Edge-LLM/pull/195)) | 1 | open |
-| [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) | Jetson CUDA compatibility and portable cuDNN discovery ([#11](https://github.com/SEU-PAISys/Embodied.cpp/pull/11)) | 1 | merged |
+| [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) | Jetson CUDA compatibility and portable cuDNN discovery ([#11](https://github.com/SEU-PAISys/Embodied.cpp/pull/11))<br>Deterministic Jetson AGX Orin pi0.5 validation ([#12](https://github.com/SEU-PAISys/Embodied.cpp/pull/12)) | 2 | 1 merged / 1 open |
 
 ## Runtime and Developer Tooling
 
