@@ -1,10 +1,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=20&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+XiaoYang." alt="Hi" />
   <p>
-    <strong>Focus on</strong><br/>
-    <strong>System Software</strong><br/>
-    <strong>Communication Middleware</strong><br/>
-    <strong>AI Infra</strong>
+    <strong>Building runtime infrastructure</strong><br/>
+    <strong>for embodied AI.</strong><br/>
+    <code>Communication Middleware · LLM Inference · Distributed Runtime</code>
   </p>
 </div>
 

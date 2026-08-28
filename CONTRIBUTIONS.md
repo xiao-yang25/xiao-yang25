@@ -1,6 +1,6 @@
 # Open Source Contributions
 
-I focus on system software architecture, especially communication middleware and model inference infrastructure.
+I focus on runtime infrastructure for embodied AI, spanning communication middleware, LLM inference, and reliability-oriented distributed runtime.
 
 ## Communication Middleware
 
@@ -17,7 +17,7 @@ I focus on system software architecture, especially communication middleware and
 | Project | Contributions | PRs | Status |
 |---|---|---:|---|
 | [**TensorRT-Edge-LLM**](https://github.com/NVIDIA/TensorRT-Edge-LLM) | Hugging Face cache symlink support for checkpoint shards ([#195](https://github.com/NVIDIA/TensorRT-Edge-LLM/pull/195)) | 1 | open |
-| [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) | Jetson CUDA compatibility and portable cuDNN discovery ([#11](https://github.com/SEU-PAISys/Embodied.cpp/pull/11)) | 1 | open |
+| [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) | Jetson CUDA compatibility and portable cuDNN discovery ([#11](https://github.com/SEU-PAISys/Embodied.cpp/pull/11)) | 1 | merged |
 
 ## Systems and Developer Tooling
 
@@ -27,4 +27,4 @@ I focus on system software architecture, especially communication middleware and
 
 ## Technical Direction
 
-`System Software Architecture` · `Communication Middleware` · `Distributed Systems` · `Model Inference Infrastructure` · `C` · `C++`
+`Runtime Infrastructure for Embodied AI` · `Communication Middleware` · `LLM Inference` · `Distributed Runtime` · `Reliability`
