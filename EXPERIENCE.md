@@ -6,9 +6,9 @@
 
 Focus:
 
-- Robot middleware
-- Communication runtime
-- Runtime infrastructure
+- Embodied AI runtime infrastructure
+- Robot communication middleware
+- AI inference / runtime integration
 
 ## MEGVII · Autonomous Driving
 
