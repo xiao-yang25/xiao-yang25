@@ -12,6 +12,13 @@ I focus on system software architecture, especially communication middleware and
 | [**ROS 2 RMW Implementation**](https://github.com/ros2/rmw_implementation) | `rmw_take_sequence` coverage ([#283](https://github.com/ros2/rmw_implementation/pull/283)) | 1 | merged |
 | [**Eclipse Zenoh**](https://github.com/eclipse-zenoh/zenoh) | JSON5 REST payload parsing ([#2657](https://github.com/eclipse-zenoh/zenoh/pull/2657)) | 1 | open |
 
+## AI Infra
+
+| Project | Contributions | PRs | Status |
+|---|---|---:|---|
+| [**TensorRT-Edge-LLM**](https://github.com/NVIDIA/TensorRT-Edge-LLM) | Hugging Face cache symlink support for checkpoint shards ([#195](https://github.com/NVIDIA/TensorRT-Edge-LLM/pull/195)) | 1 | open |
+| [**Embodied.cpp**](https://github.com/SEU-PAISys/Embodied.cpp) | Jetson CUDA compatibility and portable cuDNN discovery ([#11](https://github.com/SEU-PAISys/Embodied.cpp/pull/11)) | 1 | open |
+
 ## Systems and Developer Tooling
 
 | Project | Contributions | PRs | Status |
