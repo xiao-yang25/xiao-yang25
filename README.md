@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>Building runtime infrastructure<br/>for embodied AI.</h3>
+  <h3>Runtime Infrastructure<br/>for Embodied AI</h3>
   <p>
-    <code>Communication Middleware · LLM Inference · Distributed Runtime</code>
+    <code>Communication Middleware · Inference Runtime · Reliability</code>
   </p>
 </div>
 
@@ -30,7 +30,6 @@
 - ✅ **iceoryx2 Contributor** — [Eclipse iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
 - ✅ **ROS 2 Contributor** — [ROS 2 RMW Implementation](https://github.com/ros2/rmw_implementation)
 - ✅ **Cyclone DDS Contributor** — [Eclipse Cyclone DDS](https://github.com/eclipse-cyclonedds/cyclonedds)
-- ✅ **Fast DDS Contributor** — [Fast DDS docs](https://github.com/eProsima/Fast-DDS-docs)
 
 **AI Infra**
 
