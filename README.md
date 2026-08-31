@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Runtime Infrastructure<br/>for Embodied AI</h3>
   <p>
-    <code>Communication Middleware · Inference Runtime · Reliability</code>
+    <code>Communication Middleware · Inference Runtime · Robot Runtime</code>
   </p>
 </div>
 
