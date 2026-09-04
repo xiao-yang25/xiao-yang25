@@ -33,7 +33,7 @@
 
 **AI Infra**
 
-- 🚧 **TensorRT-Edge-LLM** — [NVIDIA/TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM)
+- ✅ **TensorRT-Edge-LLM Contributor** — [NVIDIA/TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM)
 - ✅ **Embodied.cpp Contributor** — [SEU-PAISys/Embodied.cpp](https://github.com/SEU-PAISys/Embodied.cpp)
 
 </td>
