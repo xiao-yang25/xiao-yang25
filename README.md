@@ -33,6 +33,7 @@
 
 **AI Infra**
 
+- 🚧 **LLM Compressor** — [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) · [PR #3296](https://github.com/vllm-project/llm-compressor/pull/3296) (open)
 - ✅ **TensorRT-Edge-LLM Contributor** — [NVIDIA/TensorRT-Edge-LLM](https://github.com/NVIDIA/TensorRT-Edge-LLM)
 - ✅ **Embodied.cpp Contributor** — [SEU-PAISys/Embodied.cpp](https://github.com/SEU-PAISys/Embodied.cpp)
 
